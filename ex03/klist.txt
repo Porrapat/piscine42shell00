@@ -1,0 +1,5 @@
+Credentials cache: API:7783E425-6FEC-454D-BBFD-8F452D32C81C
+        Principal: ppetchda@42BANGKOK.COM
+
+  Issued                Expires               Principal
+Oct 18 14:34:12 2021  Oct 19 00:34:06 2021  krbtgt/42BANGKOK.COM@42BANGKOK.COM
